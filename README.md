@@ -25,6 +25,6 @@
 
 ## Полезни линкове
 
--SoftUni (https://softuni.bg)
--SoftUni Judge (https://judge.softuni.org/)
--Postman (https://www.postman.com/downloads/)
+- SoftUni (https://softuni.bg)
+- SoftUni Judge (https://judge.softuni.org/)
+- Postman (https://www.postman.com/downloads/)
